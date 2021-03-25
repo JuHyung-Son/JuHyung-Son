@@ -2,14 +2,15 @@
 
 살 찌우려 개발하고, 영혼을 찌우려 사진을 찍는 사람.
 
-## 딥러닝 엔지니어
+## 소프트웨어 엔지니어
 
 ### 흥미를 느끼는 분야
 - 기계학습
-- 딥러닝
+- 딥러닝: TF2.0, pytorch
 - MLOps
-- 백엔드
-- 클라우드 오케스트레이션
+- 클라우드 오케스트레이션: k8s
+- 백엔드: django, fastAPI, django, go
+- 앱: flutter 2.0, firebase
 
 ## 아마추어 사진작가
 - [사진 블로그](https://www.sallys.space/beautifulphotos/)
