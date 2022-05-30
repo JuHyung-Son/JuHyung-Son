@@ -11,7 +11,7 @@
 - 앱: flutter 2.0, firebase
 
 ## 아마추어 사진작가
-- [사진 블로그](https://www.sallys.space/beautifulphotos/)
+- [사진 블로그](https://juhyungson.com)
 - 라이카 M10
 - Summicron 50, Summaron 35
 
