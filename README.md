@@ -1,25 +1,18 @@
-### 아..! 이 친구 이렇게 사는구나
+### Oh... This is how he lives.
 
-## 소프트웨어 엔지니어
+## Software Engineer
 
-### 흥미를 느끼는 분야
-- 기계학습
-- TF2.0, TensorRT
-- MLOps
-- 클라우드 오케스트레이션: k8s
-- 백엔드: django, fastAPI, django, go
-- 앱: flutter 2.0, firebase
+Interested in devops, CNCF things, platform engineering
 
-## 아마추어 사진작가
-- [사진 블로그](https://juhyungson.com)
-- 라이카 M10
-- Summicron 50, Summaron 35
+### Amateur photographer
+- [photo blog](https://juhyungson.com)
+- Leica MP, Summilux 50, cron 35
 
-### 좋아하는 책
-- 달과 6펜스, 서머싯 몸
-- 분노의 포도, 존 스타인 벡
-- 도리언 그레이의 초상, 오스카 와일드
-- 사피엔스, 호모데우스, 21세기를 위한 21가지 제언, 유발 하라리
+### Favorite Books
+- The Moon and the Sixpence, Somerset Maugham
+- The Grapes of Wrath, John Steinbeck
+- The Portrait of Dorian Gray, Oscar Wilde
+- Homo sapiens, Homo deus, 21 Propositions for the 21st Century, Yuval Harari
 
 <div align=center>
 
